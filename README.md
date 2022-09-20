@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<h2>About Me:<h2/>
+- 🔭 I’m currently working on Full stack e-commerce project
+<br/>
+- 🌱 I’m currently learning Javascript,Python & Git
+<br/>
+- 📫 How to reach me: bharathsurya021@gmail.com
+
+
 <!--
 **bharathsurya021/bharathsurya021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
