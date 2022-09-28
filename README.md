@@ -1,11 +1,11 @@
 ### Hi there I'm bharath👋
 
 <h2>About Me:<h2/>
-- 🔭 I’m currently looking for freelance projects
+- 🔭 <p>I’m currently looking for freelance projects<p/>
 <br/>
-- 🌱 I’m currently learning Javascript, Mern stack, Python & Git
+- 🌱 <p>I’m currently learning Javascript, Mern stack, Python & Git<p/>
 <br/>
-- 📫 How to reach me: bharathsurya021@gmail.com
+- 📫 How to reach me: @bharathsurya021@gmail.com
 
 
 <!--
