@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there I'm bharath👋
 
 <h2>About Me:<h2/>
-- 🔭 I’m currently working on Full stack e-commerce project
+- 🔭 I’m currently looking for freelance projects
 <br/>
-- 🌱 I’m currently learning Javascript,Python & Git
+- 🌱 I’m currently learning Javascript, Mern stack, Python & Git
 <br/>
 - 📫 How to reach me: bharathsurya021@gmail.com
 
