@@ -3,7 +3,7 @@
 <h2>About Me:<h2/>
 - 🔭 <p>I’m currently looking for freelance projects<p/>
 <br/>
-- 🌱 <p>I’m currently learning Javascript, Mern stack, Python & Git<p/>
+- 🌱 <p>I’m good at developing projects based on Javascript, Mern stack, Python & Git<p/>
 <br/>
 - 📫 How to reach me: @bharathsurya021@gmail.com
 
