@@ -1,9 +1,9 @@
 ### Hi there I'm bharath👋
 
 <h2>About Me:<h2/>
-- 🔭 <p>I’m currently looking for freelance projects<p/>
+- 🔭 <p>Looking for job opportunities to put my skills in work<p/>
 <br/>
-- 🌱 <p>I’m good at developing projects based on Javascript, Mern stack, Python & Git<p/>
+- 🌱 <p>Experienced in developing projects based on Javascript, Mern stack, Python & Git<p/>
 <br/>
 - 📫 How to reach me: @bharathsurya021@gmail.com
 
