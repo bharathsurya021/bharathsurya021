@@ -15,7 +15,7 @@ Welcome to my GitHub repository! 🚀 As a passionate engineer, UI/UX design ent
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathsurya021&label=Profile%20views&color=0e75b6&style=flat" alt="bharathsurya021" /> </p>
 
 
-- 🌱 I’m currently learning **NextJS, Flutter & DSA**
+- 🌱 I’m currently learning **GO & DSA**
 
 - 👨‍💻 Learn more about me [https://bharath-surya-c67fc4.netlify.app/](https://bharath-surya-c67fc4.netlify.app/)
 
